@@ -21,6 +21,6 @@ https://toxvpn5.pages.dev/sub?token=f9827cd9c8b54517b592e45fda5762c2&sb
 
 <img src="https://raw.githubusercontent.com/Zonggtongxu/freevpn/main/image.png" width="300" alt="订阅二维码">
 
-<p>🔒 请勿随意分享你的订阅地址</p>
+<p>🔒TOX</p>
 
 </div>
