@@ -41,8 +41,6 @@
 </td>
 </tr>
 </table>
-
-<p><sub>😅请等待一点时间</sub></p>
 <div align="center">
 
 🔗 <a href="https://github.com/Zonggtongxu/freevpn/blob/main/UR.txt">
