@@ -1,26 +1,59 @@
-自适应订阅
-https://toxvpn5.pages.dev/sub?token=f9827cd9c8b54517b592e45fda5762c2
-复制订阅
-
-Base64订阅
-https://toxvpn5.pages.dev/sub?token=f9827cd9c8b54517b592e45fda5762c2&b64
-复制订阅
-
-Clash订阅
-https://toxvpn5.pages.dev/sub?token=f9827cd9c8b54517b592e45fda5762c2&clash
-复制订阅
-
-SingBox订阅
-https://toxvpn5.pages.dev/sub?token=f9827cd9c8b54517b592e45fda5762c2&sb
-复制订阅
 <div align="center">
 
 <h2>📱 扫码获取订阅</h2>
 
-<p>使用手机扫描二维码即可快速获取订阅</p>
+<p><sub>使用手机扫描对应二维码即可快速获取订阅</sub></p>
 
-<img src="https://raw.githubusercontent.com/Zonggtongxu/freevpn/main/image.png" width="300" alt="订阅二维码">
+<table>
+<tr>
+<td align="center">
 
-<p>🔒TOX</p>
+<b>普通订阅</b><br><br>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https%3A%2F%2Ftoxvpn5.pages.dev%2Fsub%3Ftoken%3Df9827cd9c8b54517b592e45fda5762c2" width="220">
+
+<br><br>
+<sub>普通订阅</sub>
+
+</td>
+
+<td align="center">
+
+<b>Base64 订阅</b><br><br>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https%3A%2F%2Ftoxvpn5.pages.dev%2Fsub%3Ftoken%3Df9827cd9c8b54517b592e45fda5762c2%26b64" width="220">
+
+<br><br>
+<sub>Base64</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>Clash 订阅</b><br><br>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https%3A%2F%2Ftoxvpn5.pages.dev%2Fsub%3Ftoken%3Df9827cd9c8b54517b592e45fda5762c2%26clash" width="220">
+
+<br><br>
+<sub>Clash</sub>
+
+</td>
+
+<td align="center">
+
+<b>SingBox 订阅</b><br><br>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https%3A%2F%2Ftoxvpn5.pages.dev%2Fsub%3Ftoken%3Df9827cd9c8b54517b592e45fda5762c2%26sb" width="220">
+
+<br><br>
+<sub>SingBox</sub>
+
+</td>
+</tr>
+</table>
+
+<p><sub>🔒 请勿随意分享你的订阅地址</sub></p>
 
 </div>
