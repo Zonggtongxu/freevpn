@@ -43,5 +43,5 @@
 </table>
 
 <p><sub>😅请等待一点时间</sub></p>
-
+🔗 [点击查看订阅链接](https://github.com/Zonggtongxu/freevpn/blob/main/UR.txt)
 </div>
