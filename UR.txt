@@ -1,0 +1,19 @@
+节点链接格式
+vless://a71eefd2-5d36-46c5-a64d-12cf98314fba@toxvpn5.pages.dev:443?security=tls&type=ws&host=toxvpn5.pages.dev&fp=chrome&sni=toxvpn5.pages.dev&path=%2F&encryption=none#edgetunnel
+📱二维码 复制节点
+
+自适应订阅
+https://toxvpn5.pages.dev/sub?token=c17a1ce24a19ec8c132d7d22b239c1e1
+📱二维码 复制订阅
+
+Base64订阅
+https://toxvpn5.pages.dev/sub?token=c17a1ce24a19ec8c132d7d22b239c1e1&b64
+📱二维码 复制订阅
+
+Clash订阅
+https://toxvpn5.pages.dev/sub?token=c17a1ce24a19ec8c132d7d22b239c1e1&clash
+📱二维码 复制订阅
+
+SingBox订阅
+https://toxvpn5.pages.dev/sub?token=c17a1ce24a19ec8c132d7d22b239c1e1&sb
+📱二维码 复制订阅
