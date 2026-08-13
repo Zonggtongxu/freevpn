@@ -54,6 +54,6 @@
 </tr>
 </table>
 
-<p><sub>🔒 请勿随意分享你的订阅地址</sub></p>
+<p><sub>🔒</sub></p>
 
 </div>
